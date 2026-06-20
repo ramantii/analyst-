@@ -1,0 +1,201 @@
+year,title,imdb,viewership,directors_creators,lead_actors,release_date,duration,country,genre,viewership_clean,content_type,runtime_minutes,seasons,release_year,release_month,release_quarter,release_day,imdb_category,popularity_category,genre_group
+2016,Orange Is the New Black,8.0,23.0M Streams,Jenji Kohan,"Taylor Schilling, Uzo Aduba",2016-06-17,S4; 730 min,USA,Comedy Drama,23.0,Movie,4.0,,2016,June,2,Friday,Good,Medium,Comedy
+2016,Stranger Things,8.7,21.7M Streams,The Duffer Brothers,"Winona Ryder, Millie Bobby Brown",2016-07-15,S1; 400 min,USA,Sci-Fi / Horror,21.7,Movie,1.0,,2016,July,3,Friday,Excellent,Medium,Sci-Fi
+2016,Fuller House,6.7,21.5M Streams,Jeff Franklin,"Candace Cameron Bure, Jodie Sweetin",2016-02-25,S1; 390 min,USA,Sitcom / Comedy,21.5,Movie,1.0,,2016,February,1,Thursday,Average,Medium,Comedy
+2016,Marvel's Luke Cage,7.3,12.1M Streams,Cheo Hodari Coker,"Mike Colter, Alfre Woodard",2016-09-30,S1; 715 min,USA,Action / Superhero,12.1,Movie,1.0,,2016,September,3,Friday,Good,Medium,Action
+2016,Marvel's Daredevil,8.6,11.6M Streams,Drew Goddard,"Charlie Cox, Deborah Ann Woll",2016-03-18,S2; 650 min,USA,Superhero,11.6,Movie,2.0,,2016,March,1,Friday,Excellent,Medium,Other
+2016,The Crown,8.6,7.0M Streams,Peter Morgan,"Claire Foy, Matt Smith",2016-11-04,S1; 600 min,USA & UK,Biography / History,7.0,Movie,1.0,,2016,November,4,Friday,Excellent,Low,Other
+2016,Gilmore Girls: AYITL,7.6,6.3M Streams,Amy Sherman-Palladino,"Lauren Graham, Alexis Bledel",2016-11-25,4 Eps; 360 min,USA,Family Drama,6.3,Movie,4.0,,2016,November,4,Friday,Good,Low,Drama
+2016,The Ranch,7.5,5.8M Streams,Don Reo,"Ashton Kutcher, Sam Elliott",2016-04-01,P1; 300 min,USA,Comedy / Sitcom,5.8,Movie,1.0,,2016,April,2,Friday,Good,Low,Comedy
+2016,11.22.63,8.1,5.3M Streams,Bridget Carpenter,"James Franco, Sarah Gadon",2016-02-15,8 Eps; 440 min,USA,Sci-Fi,5.3,Movie,8.0,,2016,February,1,Monday,Excellent,Low,Sci-Fi
+2016,3%,7.3,4.5M Streams,Pedro Aguilera,Bianca Comparato,2016-11-25,S1; 380 min,Brazil,Sci-Fi / Drama,4.5,Movie,1.0,,2016,November,4,Friday,Good,Low,Drama
+2016,Love,7.7,4.0M Streams,Judd Apatow,"Gillian Jacobs, Paul Rust",2016-02-19,S1; 300 min,USA,Romance / Comedy,4.0,Movie,1.0,,2016,February,1,Friday,Good,Low,Comedy
+2016,Narcos,8.8,3.8M Streams,Chris Brancato,"Wagner Moura, Pedro Pascal",2016-09-02,S2; 500 min,USA/Colombia,Crime Drama,3.8,Movie,2.0,,2016,September,3,Friday,Excellent,Low,Crime
+2016,Black Mirror,8.7,3.7M Streams,Charlie Brooker,"Gugu Mbatha-Raw, Bryce Dallas Howard",2016-10-21,S3; 360 min,UK,Sci-Fi / Anthology,3.7,Movie,3.0,,2016,October,4,Friday,Excellent,Low,Sci-Fi
+2016,Bloodline,7.9,3.3M Streams,Todd A. Kessler,"Kyle Chandler, Ben Mendelsohn",2016-05-27,S2; 600 min,USA,Thriller / Drama,3.3,Movie,2.0,,2016,May,2,Friday,Good,Low,Drama
+2016,Longmire,8.3,3.2M Streams,John Coveny,"Robert Taylor, Katee Sackhoff",2016-09-23,S5; 600 min,USA,Crime Drama,3.2,Movie,5.0,,2016,September,3,Friday,Excellent,Low,Crime
+2016,Chelsea Does,7.2,2.7M Streams,Eddie Schmidt,Chelsea Handler,2016-01-23,4 Eps; 240 min,USA,Documentary,2.7,Movie,4.0,,2016,January,1,Saturday,Good,Low,Documentary
+2016,Flaked,7.2,2.04M Streams,Will Arnett,"Will Arnett, David Sullivan",2016-03-11,S1; 240 min,USA,Comedy / Drama,2.04,Movie,1.0,,2016,March,1,Friday,Good,Low,Comedy
+2016,BoJack Horseman,8.8,2.0M Streams,R. Bob-Waksberg,"Will Arnett, Aaron Paul",2016-07-22,S3; 300 min,USA,Adult Animation,2.0,Movie,3.0,,2016,July,3,Friday,Excellent,Low,Animation
+2016,Marco Polo,8.0,1.9M Streams,John Fusco,"Lorenzo Richelmy, Benedict Wong",2016-07-01,S2; 600 min,USA,Historical Drama,1.9,Movie,2.0,,2016,July,3,Friday,Good,Low,Drama
+2016,Lady Dynamite,7.4,1.8M Streams,Maria Bamford,"Maria Bamford, Fred Melamed",2016-05-20,S1; 360 min,USA,Comedy,1.8,Movie,1.0,,2016,May,2,Friday,Good,Low,Comedy
+2017,13 Reasons Why,7.5,475M Hours (S1),Brian Yorkey,"Dylan Minnette, Katherine Langford",2017-03-31,S1; 780 min,USA,Teen Drama / Mystery,475.0,Movie,1.0,,2017,March,1,Friday,Good,Very High,Drama
+2017,Money Heist,8.2,426M Hours (P3),Álex Pina,"Álvaro Morte, Úrsula Corberó",2017-05-02,P1; 600 min,Spain,Heist / Crime,426.0,Movie,1.0,,2017,May,2,Tuesday,Excellent,Very High,Crime
+2017,American Vandal,8.2,12.4M Views,Tony Yacenda,"Tyler Alvarez, Griffin Gluck",2017-09-15,S1; 240 min,USA,Satirical True Crime,12.4,Movie,1.0,,2017,September,3,Friday,Excellent,Medium,Crime
+2017,Ozark,8.5,491M Hours (S4),Bill Dubuque,"Jason Bateman, Laura Linney",2017-07-21,S1; 600 min,USA,Crime Drama,491.0,Movie,1.0,,2017,July,3,Friday,Excellent,Very High,Crime
+2017,Mindhunter,8.6,15.5M Views,Joe Penhall,"Jonathan Groff, Holt McCallany",2017-10-13,S1; 500 min,USA,Crime Drama,15.5,Movie,1.0,,2017,October,4,Friday,Excellent,Medium,Crime
+2017,Anne with an E,8.7,7.4M Views,Moira Walley-Beckett,Amybeth McNulty,2017-03-19,S1; 330 min,Canada,Family Drama,7.4,Movie,1.0,,2017,March,1,Sunday,Excellent,Low,Drama
+2017,3%,7.3,4.5M Views (S1),Pedro Aguilera,Bianca Comparato,2016-11-25,S1; 380 min,Brazil,Sci-Fi / Thriller,4.5,Movie,1.0,,2016,November,4,Friday,Good,Low,Thriller
+2017,Travelers,8.0,7.1M Views,Brad Wright,Eric McCormack,2016-12-23,S1; 540 min,Canada/USA,Sci-Fi / Mystery,7.1,Movie,1.0,,2016,December,4,Friday,Good,Low,Sci-Fi
+2017,The OA,7.8,4.9M Views,Brit Marling,"Brit Marling, Jason Isaacs",2016-12-16,P1; 480 min,USA,Sci-Fi / Mystery,4.9,Movie,1.0,,2016,December,4,Friday,Good,Low,Sci-Fi
+2017,Ingobernable,6.9,5.3M Views,Epigmenio Ibarra,Kate del Castillo,2017-03-24,S1; 450 min,Mexico,Political Drama,5.3,Movie,1.0,,2017,March,1,Friday,Average,Low,Drama
+2017,The Keepers,8.1,6.8M Views,Ryan White,Documentary,2017-05-19,7 Eps; 420 min,USA,True Crime Doc,6.8,Movie,7.0,,2017,May,2,Friday,Excellent,Low,Crime
+2017,The Confession Tapes,7.5,5.1M Views,Kelly Loudenberg,Documentary,2017-09-07,S1; 300 min,USA,True Crime Doc,5.1,Movie,1.0,,2017,September,3,Thursday,Good,Low,Crime
+2017,The Crown,8.6,16B Minutes,Peter Morgan,"Claire Foy, Matt Smith",2017-12-08,S2; 600 min,UK,Biography / History,16.0,Movie,2.0,,2017,December,4,Friday,Excellent,Medium,Other
+2017,Big Mouth,7.9,10.1M Views,Nick Kroll,"Nick Kroll, John Mulaney",2017-09-29,S1; 300 min,USA,Adult Animation,10.1,Movie,1.0,,2017,September,3,Friday,Good,Medium,Animation
+2017,Neo Yokio,5.8,3.2M Views,Ezra Koenig,"Jaden Smith, Jude Law",2017-09-22,S1; 140 min,USA/Japan,Adult Animation,3.2,Movie,1.0,,2017,September,3,Friday,Low,Low,Animation
+2017,A Series of Unfortunate Events,7.8,10.5M Views,Barry Sonnenfeld,Neil Patrick Harris,2017-01-13,S1; 400 min,USA,Black Comedy,10.5,Movie,1.0,,2017,January,1,Friday,Good,Medium,Comedy
+2017,GLOW,8.0,8.5M Views,Liz Flahive,"Alison Brie, Marc Maron",2017-06-23,S1; 300 min,USA,Comedy / Drama,8.5,Movie,1.0,,2017,June,2,Friday,Good,Low,Comedy
+2017,Friends from College,6.9,4.8M Views,Nicholas Stoller,Keegan-Michael Key,2017-07-14,S1; 240 min,USA,Comedy,4.8,Movie,1.0,,2017,July,3,Friday,Average,Low,Comedy
+2017,Atypical,8.2,8.1M Views,Robia Rashid,"Keir Gilchrist, Jennifer Jason Leigh",2017-08-11,S1; 240 min,USA,Coming-of-age,8.1,Movie,1.0,,2017,August,3,Friday,Excellent,Low,Other
+2017,Dear White People,6.4,5.2M Views,Justin Simien,"Logan Browning, Brandon P. Bell",2017-04-28,V1; 300 min,USA,Satire / Drama,5.2,Movie,1.0,,2017,April,2,Friday,Average,Low,Drama
+2018,On My Block,7.9,High Rewatch Rate,Lauren Iungerich,"Sierra Capri, Jason Genao",2018-03-16,S1; 300 min,USA,Coming-of-age,,Movie,1.0,,2018,March,1,Friday,Good,,Other
+2018,Making a Murderer,8.6,13.4M (S1),Laura Ricciardi,Steven Avery,2018-10-19,P2; 600 min,USA,True Crime Doc,13.4,Movie,2.0,,2018,October,4,Friday,Excellent,Medium,Crime
+2018,13 Reasons Why,7.5,496M Hours (S2),Brian Yorkey,Dylan Minnette,2018-05-18,S2; 780 min,USA,Teen Drama,496.0,Movie,2.0,,2018,May,2,Friday,Good,Very High,Drama
+2018,Last Chance U: Indy,8.4,8.1M Views,Greg Whiteley,Documentary,2018-07-20,S3; 480 min,USA,Sports Doc,8.1,Movie,3.0,,2018,July,3,Friday,Excellent,Low,Documentary
+2018,Bodyguard,8.1,14.2M Views,Jed Mercurio,Richard Madden,2018-10-24,S1; 360 min,UK,Political Thriller,14.2,Movie,1.0,,2018,October,4,Wednesday,Excellent,Medium,Thriller
+2018,Fastest Car,7.1,6.5M Views,Scott Weintrob,Reality,2018-04-06,S1; 400 min,USA,Reality / Auto,6.5,Movie,1.0,,2018,April,2,Friday,Good,Low,Other
+2018,The Haunting of Hill House,8.5,15.7M Views,Mike Flanagan,"Michiel Huisman, Carla Gugino",2018-10-12,10 Eps; 570 min,USA,Horror,15.7,Movie,10.0,,2018,October,4,Friday,Excellent,Medium,Horror
+2018,Anne with an E,8.7,7.4M Views,M. Walley-Beckett,Amybeth McNulty,2018-07-06,S2; 450 min,Canada,Family Drama,7.4,Movie,2.0,,2018,July,3,Friday,Excellent,Low,Drama
+2018,Insatiable,6.5,10.4M Views,Lauren Gussis,Debby Ryan,2018-08-10,S1; 540 min,USA,Dark Comedy,10.4,Movie,1.0,,2018,August,3,Friday,Average,Medium,Comedy
+2018,Orange Is the New Black,8.0,50M Views (S6),Jenji Kohan,Taylor Schilling,2018-07-27,S6; 780 min,USA,Comedy Drama,50.0,Movie,6.0,,2018,July,3,Friday,Good,High,Comedy
+2018,Elite,7.2,30M Views (S1),Carlos Montero,Itzan Escamilla,2018-10-05,S1; 400 min,Spain,Teen Thriller,30.0,Movie,1.0,,2018,October,4,Friday,Good,Medium,Thriller
+2018,Chilling Adventures of Sabrina,7.4,11.5M Views,R. Aguirre-Sacasa,Kiernan Shipka,2018-10-26,P1; 500 min,USA,Supernatural Horror,11.5,Movie,1.0,,2018,October,4,Friday,Good,Medium,Horror
+2018,Narcos: Mexico,8.4,12.8M Views,Carlo Bernard,"Michael Peña, Diego Luna",2018-11-16,S1; 550 min,USA/Mexico,Crime Drama,12.8,Movie,1.0,,2018,November,4,Friday,Excellent,Medium,Crime
+2018,The Umbrella Academy,7.9,45M Views (S1),Steve Blackman,Elliot Page,2019-02-15,S1; 600 min,USA,Superhero Action,45.0,Movie,1.0,,2019,February,1,Friday,Good,High,Action
+2018,You,7.7,40M Views (S1),Greg Berlanti,Penn Badgley,2018-12-26,S1; 450 min,USA,Psych Thriller,40.0,Movie,1.0,,2018,December,4,Wednesday,Good,High,Thriller
+2018,Lost in Space,7.3,11.2M Views,Matt Sazama,Toby Stephens,2018-04-13,S1; 600 min,USA,Sci-Fi Adventure,11.2,Movie,1.0,,2018,April,2,Friday,Good,Medium,Sci-Fi
+2018,Hilda,8.6,4.8M Views,Luke Pearson,Bella Ramsey,2018-09-21,S1; 300 min,UK/Canada,Animation / Adventure,4.8,Movie,1.0,,2018,September,3,Friday,Excellent,Low,Animation
+2018,Disenchantment,7.2,7.1M Views,Matt Groening,Abbi Jacobson,2018-08-17,P1; 300 min,USA,Adult Animation,7.1,Movie,1.0,,2018,August,3,Friday,Good,Low,Animation
+2018,Seven Seconds,7.7,5.2M Views,Veena Sud,Clare-Hope Ashitey,2018-02-23,10 Eps; 600 min,USA,Crime Drama,5.2,Movie,10.0,,2018,February,1,Friday,Good,Low,Crime
+2018,Dogs,8.6,4.8M Views,Glen Zipper,Documentary,2018-11-16,S1; 300 min,USA,Documentary,4.8,Movie,1.0,,2018,November,4,Friday,Excellent,Low,Documentary
+2019,The Witcher,8.0,541M Hours (S1),Lauren S. Hissrich,"Henry Cavill, Anya Chalotra",2019-12-20,S1; 480 min,USA/Poland,Fantasy Drama,541.0,Movie,1.0,,2019,December,4,Friday,Good,Very High,Drama
+2019,Stranger Things 3,8.7,582M Hours,The Duffer Brothers,Millie Bobby Brown,2019-07-04,S3; 440 min,USA,Sci-Fi / Horror,582.0,Movie,3.0,,2019,July,3,Thursday,Excellent,Very High,Sci-Fi
+2019,The Umbrella Academy,7.9,45M Views,Steve Blackman,"Elliot Page, Tom Hopper",2019-02-15,S1; 600 min,USA,Superhero Action,45.0,Movie,1.0,,2019,February,1,Friday,Good,High,Action
+2019,Sex Education,8.3,40M Views (S1),Laurie Nunn,"Asa Butterfield, Gillian Anderson",2019-01-11,S1; 400 min,UK,Coming-of-age,40.0,Movie,1.0,,2019,January,1,Friday,Excellent,High,Other
+2019,When They See Us,8.9,25M Views,Ava DuVernay,"Jharrel Jerome, Asante Blackk",2019-05-31,4 Eps; 296 min,USA,Drama / Legal,25.0,Movie,4.0,,2019,May,2,Friday,Excellent,Medium,Drama
+2019,Dead to Me,7.9,30M Views (S1),Liz Feldman,"Christina Applegate, Linda Cardellini",2019-05-03,S1; 300 min,USA,Black Comedy,30.0,Movie,1.0,,2019,May,2,Friday,Good,Medium,Comedy
+2019,After Life,8.4,18M Views (S1),Ricky Gervais,Ricky Gervais,2019-03-08,S1; 180 min,UK,Black Comedy,18.0,Movie,1.0,,2019,March,1,Friday,Excellent,Medium,Comedy
+2019,Kingdom,8.3,12M Views (S1),Kim Seong-hun,Ju Ji-hoon,2019-01-25,S1; 300 min,South Korea,Period Zombie Horror,12.0,Movie,1.0,,2019,January,1,Friday,Excellent,Medium,Horror
+2019,Unbelievable,8.4,44M Views,Susannah Grant,"Toni Collette, Merritt Wever",2019-09-13,8 Eps; 400 min,USA,Crime Drama,44.0,Movie,8.0,,2019,September,3,Friday,Excellent,High,Crime
+2019,Russian Doll,7.7,12.5M Views,Natasha Lyonne,Natasha Lyonne,2019-02-01,S1; 200 min,USA,Sci-Fi / Comedy,12.5,Movie,1.0,,2019,February,1,Friday,Good,Medium,Comedy
+2019,Our Planet,9.3,33M Views,Alastair Fothergill,David Attenborough,2019-04-05,8 Eps; 400 min,UK,Nature Doc,33.0,Movie,8.0,,2019,April,2,Friday,Excellent,High,Documentary
+2019,"Love, Death & Robots",8.4,15M Views,Tim Miller,Anthology,2019-03-15,V1; 200 min,USA,Sci-Fi Anthology,15.0,Movie,1.0,,2019,March,1,Friday,Excellent,Medium,Sci-Fi
+2019,Peaky Blinders,8.8,30M Views (S5),Steven Knight,Cillian Murphy,2019-10-04,S5; 360 min,UK,Period Crime,30.0,Movie,5.0,,2019,October,4,Friday,Excellent,Medium,Crime
+2019,Criminal: UK,7.6,7.4M Views,George Kay,David Tennant,2019-09-20,S1; 135 min,UK,Police Procedural,7.4,Movie,1.0,,2019,September,3,Friday,Good,Low,Other
+2019,Master of None,8.2,6.5M Views,Aziz Ansari,Aziz Ansari,2021-05-23,S3; 150 min,USA,Comedy Drama,6.5,Movie,3.0,,2021,May,2,Sunday,Excellent,Low,Comedy
+2019,13 Reasons Why,7.5,35M Views (S3),Brian Yorkey,Dylan Minnette,2019-08-23,S3; 780 min,USA,Teen Drama,35.0,Movie,3.0,,2019,August,3,Friday,Good,High,Drama
+2019,Queer Eye,8.5,10M Views (S3),David Collins,Antoni Porowski,2019-03-15,S3; 360 min,USA,Reality TV,10.0,Movie,3.0,,2019,March,1,Friday,Excellent,Low,Other
+2019,Altered Carbon,7.9,8.3M Views (S1),Laeta Kalogridis,Joel Kinnaman,2018-02-02,S1; 600 min,USA,Sci-Fi / Cyberpunk,8.3,Movie,1.0,,2018,February,1,Friday,Good,Low,Sci-Fi
+2019,Lost in Space,7.3,11.2M Views (S2),Matt Sazama,Toby Stephens,2019-12-24,S2; 550 min,USA,Sci-Fi Adventure,11.2,Movie,2.0,,2019,December,4,Tuesday,Good,Medium,Sci-Fi
+2019,Grace and Frankie,8.2,9.5M Views (S5),Marta Kauffman,"Jane Fonda, Lily Tomlin",2019-01-18,S5; 390 min,USA,Comedy,9.5,Movie,5.0,,2019,January,1,Friday,Excellent,Low,Comedy
+2020,Bridgerton,7.4,113.3M Views,Chris Van Dusen,"Phoebe Dynevor, Regé-Jean Page",2020-12-25,S1; 492 min,USA,Period Romance,113.3,Movie,1.0,,2020,December,4,Friday,Good,Very High,Romance
+2020,The Queen's Gambit,8.6,112.8M Views,Scott Frank,Anya Taylor-Joy,2020-10-23,7 Eps; 393 min,USA,Period Drama,112.8,Movie,7.0,,2020,October,4,Friday,Excellent,Very High,Drama
+2020,Tiger King,7.5,64M Views,Eric Goode,Joe Exotic,2020-03-20,S1; 330 min,USA,True Crime Doc,64.0,Movie,1.0,,2020,March,1,Friday,Good,High,Crime
+2020,Money Heist,8.2,619M Hours (P4),Álex Pina,Álvaro Morte,2020-04-03,P4; 400 min,Spain,Heist / Crime,619.0,Movie,4.0,,2020,April,2,Friday,Excellent,Very High,Crime
+2020,Emily in Paris,6.9,58M Views,Darren Star,Lily Collins,2020-10-02,S1; 300 min,USA/France,Rom-Com,58.0,Movie,1.0,,2020,October,4,Friday,Average,High,Other
+2020,Outer Banks,7.5,45M Views,Josh Pate,"Chase Stokes, Madelyn Cline",2020-04-15,S1; 500 min,USA,Teen Adventure,45.0,Movie,1.0,,2020,April,2,Wednesday,Good,High,Other
+2020,Love Is Blind,6.2,18.8M Points,Chris Coelen,Nick Lachey,2020-02-13,S1; 600 min,USA,Dating Reality,18.8,Movie,1.0,,2020,February,1,Thursday,Average,Medium,Other
+2020,Never Have I Ever,7.8,40M Views,Mindy Kaling,Maitreyi Ramakrishnan,2020-04-27,S1; 300 min,USA,Coming-of-age,40.0,Movie,1.0,,2020,April,2,Monday,Good,High,Other
+2020,Ratched,7.3,48M Views,Ryan Murphy,Sarah Paulson,2020-09-18,S1; 480 min,USA,Psych Thriller,48.0,Movie,1.0,,2020,September,3,Friday,Good,High,Thriller
+2020,Alice in Borderland,7.7,46.6M Views,Shinsuke Sato,Kento Yamazaki,2020-12-10,S1; 400 min,Japan,Survival Thriller,46.6,Movie,1.0,,2020,December,4,Thursday,Good,High,Thriller
+2020,The Umbrella Academy,7.9,43M Views (S2),Steve Blackman,Elliot Page,2020-07-31,S2; 500 min,USA,Superhero Action,43.0,Movie,2.0,,2020,July,3,Friday,Good,High,Action
+2020,Locke & Key,7.3,5.9M Points,Carlton Cuse,Darby Stanchfield,2020-02-07,S1; 500 min,USA,Fantasy / Horror,5.9,Movie,1.0,,2020,February,1,Friday,Good,Low,Horror
+2020,Space Force,6.7,40M Views,Greg Daniels,Steve Carell,2020-05-29,S1; 300 min,USA,Workplace Comedy,40.0,Movie,1.0,,2020,May,2,Friday,Average,High,Comedy
+2020,Cocomelon,4.3,61.4M Points,Jay Jeon,Animation,2020-06-01,S1; 180 min,USA,Kids / Animation,61.4,Movie,1.0,,2020,June,2,Monday,Low,High,Animation
+2020,The Crown,8.6,16.2B Minutes,Peter Morgan,"Olivia Colman, Gillian Anderson",2020-11-15,S4; 550 min,UK,Biography / History,16.2,Movie,4.0,,2020,November,4,Sunday,Excellent,Medium,Other
+2020,Ozark,8.5,18B Minutes (S3),Bill Dubuque,"Jason Bateman, Laura Linney",2020-03-27,S3; 600 min,USA,Crime Drama,18.0,Movie,3.0,,2020,March,1,Friday,Excellent,Medium,Crime
+2020,Sex Education,8.3,35M Views (S2),Laurie Nunn,Asa Butterfield,2020-01-17,S2; 400 min,UK,Coming-of-age,35.0,Movie,2.0,,2020,January,1,Friday,Excellent,High,Other
+2020,Sweet Magnolias,7.3,6.0M Points,Sheryl J. Anderson,JoAnna Garcia Swisher,2020-05-19,S1; 500 min,USA,Romance / Drama,6.0,Movie,1.0,,2020,May,2,Tuesday,Good,Low,Drama
+2020,Unorthodox,8.0,52M Views,Anna Winger,Shira Haas,2020-03-26,4 Eps; 213 min,Germany,Drama,52.0,Movie,4.0,,2020,March,1,Thursday,Good,High,Drama
+2020,Schitt's Creek,8.5,15B Minutes (S6),Dan Levy,"Eugene Levy, Catherine O'Hara",2020-05-14,S6; 320 min,Canada,Sitcom,15.0,Movie,6.0,,2020,May,2,Thursday,Excellent,Medium,Other
+2021,Squid Game,8.0,265.2M Views,Hwang Dong-hyuk,"Lee Jung-jae, Jung Ho-yeon",2021-09-17,S1; 485 min,South Korea,Survival Drama,265.2,Movie,1.0,,2021,September,3,Friday,Good,Very High,Drama
+2021,Lupin,7.5,76M Views (P1),George Kay,Omar Sy,2021-01-08,P1; 225 min,France,Mystery Thriller,76.0,Movie,1.0,,2021,January,1,Friday,Good,Very High,Thriller
+2021,Maid,8.3,67M Views,Molly Smith Metzler,Margaret Qualley,2021-10-01,10 Eps; 544 min,USA,Drama,67.0,Movie,10.0,,2021,October,4,Friday,Excellent,Very High,Drama
+2021,Sex/Life,5.5,67M Views,Stacy Rukeyser,"Sarah Shahi, Mike Vogel",2021-06-25,S1; 400 min,USA,Drama / Romance,67.0,Movie,1.0,,2021,June,2,Friday,Low,Very High,Drama
+2021,Money Heist,8.2,792M Hours (P5),Álex Pina,Álvaro Morte,2021-09-03,P5; 450 min,Spain,Heist / Crime,792.0,Movie,5.0,,2021,September,3,Friday,Excellent,Very High,Crime
+2021,Sweet Tooth,7.7,60M Views,Jim Mickle,Christian Convery,2021-06-04,S1; 400 min,USA,Fantasy Drama,60.0,Movie,1.0,,2021,June,2,Friday,Good,High,Drama
+2021,Ginny & Georgia,7.5,118.2M Views (S1),Sarah Lampert,Brianne Howey,2021-02-24,S1; 587 min,USA,Coming-of-age,118.2,Movie,1.0,,2021,February,1,Wednesday,Good,Very High,Other
+2021,Fate: The Winx Saga,6.8,57M Views,Brian Young,Abigail Cowen,2021-01-22,S1; 300 min,UK/Italy,Teen Fantasy,57.0,Movie,1.0,,2021,January,1,Friday,Average,High,Fantasy
+2021,Shadow and Bone,7.5,55M Views,Eric Heisserer,"Jessie Mei Li, Ben Barnes",2021-04-23,S1; 400 min,USA,Fantasy Drama,55.0,Movie,1.0,,2021,April,2,Friday,Good,High,Drama
+2021,Sex Education,8.3,55M Views (S3),Laurie Nunn,Asa Butterfield,2021-09-17,S3; 450 min,UK,Coming-of-age,55.0,Movie,3.0,,2021,September,3,Friday,Excellent,High,Other
+2021,Arcane,9.0,120M Hours,Christian Linke,Hailee Steinfeld,2021-11-06,S1; 360 min,USA/France,Animation / Action,120.0,Movie,1.0,,2021,November,4,Saturday,Excellent,Very High,Animation
+2021,Clickbait,7.2,52M Views,Tony Ayres,Adrian Grenier,2021-08-25,8 Eps; 353 min,Australia/USA,Mystery Thriller,52.0,Movie,8.0,,2021,August,3,Wednesday,Good,High,Thriller
+2021,Midnight Mass,7.7,12.1M Views,Mike Flanagan,"Zach Gilford, Hamish Linklater",2021-09-24,7 Eps; 440 min,USA,Supernatural Horror,12.1,Movie,7.0,,2021,September,3,Friday,Good,Medium,Horror
+2021,Hellbound,6.6,142M Hours,Yeon Sang-ho,Yoo Ah-in,2021-11-19,S1; 300 min,South Korea,Supernatural Thriller,142.0,Movie,1.0,,2021,November,4,Friday,Average,Very High,Thriller
+2021,My Name,7.8,3.1M Points,Kim Jin-min,Han So-hee,2021-10-15,1 Season; 400 min,South Korea,Crime Thriller,3.1,TV Show,,1.0,2021,October,4,Friday,Good,Low,Crime
+2021,D.P.,8.2,3.2M Points,Han Jun-hee,Jung Hae-in,2021-08-27,S1; 300 min,South Korea,Military Drama,3.2,Movie,1.0,,2021,August,3,Friday,Excellent,Low,Drama
+2021,The Serpent,7.6,31M Views,Richard Warlow,"Tahar Rahim, Jenna Coleman",2021-01-01,8 Eps; 464 min,UK,True Crime Drama,31.0,Movie,8.0,,2021,January,1,Friday,Good,Medium,Crime
+2021,Behind Her Eyes,7.2,38M Views,Steve Lightfoot,"Simona Brown, Eve Hewson",2021-02-17,6 Eps; 300 min,UK,Psych Thriller,38.0,Movie,6.0,,2021,February,1,Wednesday,Good,High,Thriller
+2021,Cowboy Bebop,6.7,25M Views,Christopher Yost,John Cho,2021-11-19,S1; 500 min,USA,Sci-Fi / Western,25.0,Movie,1.0,,2021,November,4,Friday,Average,Medium,Sci-Fi
+2021,Archive 81,7.3,"7,967 Points",Rebecca Sonnenshine,Mamoudou Athie,2022-01-14,S1; 400 min,USA,Horror / Mystery,7.0,Movie,1.0,,2022,January,1,Friday,Good,Low,Horror
+2022,Wednesday,8.1,252.1M Views,Tim Burton,Jenna Ortega,2022-11-23,S1; 409 min,USA,Supernatural Mystery,252.1,Movie,1.0,,2022,November,4,Wednesday,Excellent,Very High,Other
+2022,Stranger Things 4,8.7,140.7M Views,The Duffer Brothers,Millie Bobby Brown,2022-05-27,9 Eps; 784 min,USA,Sci-Fi / Horror,140.7,Movie,9.0,,2022,May,2,Friday,Excellent,Very High,Sci-Fi
+2022,DAHMER,7.9,115.6M Views,Ryan Murphy,Evan Peters,2022-09-21,10 Eps; 535 min,USA,True Crime / Drama,115.6,Movie,10.0,,2022,September,3,Wednesday,Good,Very High,Crime
+2022,All of Us Are Dead,7.5,679M Hours,Lee JQ,Park Ji-hu,2022-01-28,S1; 709 min,South Korea,Zombie Horror,679.0,Movie,1.0,,2022,January,1,Friday,Good,Very High,Horror
+2022,Inventing Anna,6.8,511M Hours,Shonda Rhimes,Julia Garner,2022-02-11,9 Eps; 602 min,USA,True Crime Drama,511.0,Movie,9.0,,2022,February,1,Friday,Average,Very High,Crime
+2022,Ozark,8.5,491M Hours (S4),Bill Dubuque,Jason Bateman,2022-01-21,S4; 600 min,USA,Crime Drama,491.0,Movie,4.0,,2022,January,1,Friday,Excellent,Very High,Crime
+2022,Bridgerton 2,7.4,656M Hours,Shonda Rhimes,"Jonathan Bailey, Simone Ashley",2022-03-25,8 Eps; 510 min,USA,Period Romance,656.0,Movie,8.0,,2022,March,1,Friday,Good,Very High,Romance
+2022,The Sandman,7.7,396M Hours,Neil Gaiman,Tom Sturridge,2022-08-05,S1; 574 min,USA & UK,Fantasy Drama,396.0,Movie,1.0,,2022,August,3,Friday,Good,Very High,Drama
+2022,Extraordinary Attorney Woo,8.6,402M Hours,Yoo In-shik,Park Eun-bin,2022-06-29,S1; 1120 min,South Korea,Legal Drama,402.0,Movie,1.0,,2022,June,2,Wednesday,Excellent,Very High,Drama
+2022,Manifest,7.1,"53,337 Points",Jeff Rake,Melissa Roxburgh,2022-11-04,S4; 500 min,USA,Supernatural Mystery,53.0,Movie,4.0,,2022,November,4,Friday,Good,High,Other
+2022,The Watcher,6.5,79.6M Views,Ryan Murphy,Naomi Watts,2022-10-13,S1; 342 min,USA,Mystery / Thriller,79.6,Movie,1.0,,2022,October,4,Thursday,Average,Very High,Thriller
+2022,Heartstopper,8.6,5M Views,Alice Oseman,"Kit Connor, Joe Locke",2022-04-22,S1; 240 min,UK,Teen Romance,5.0,Movie,1.0,,2022,April,2,Friday,Excellent,Low,Romance
+2022,1899,7.3,245M Hours,Baran bo Odar,Emily Beecham,2022-11-17,S1; 400 min,Germany,Sci-Fi / Mystery,245.0,Movie,1.0,,2022,November,4,Thursday,Good,Very High,Sci-Fi
+2022,Cabinet of Curiosities,7.0,"6,322 Points",G. del Toro,Anthology,2022-10-25,1 Season; 400 min,USA,Horror Anthology,6.0,TV Show,,1.0,2022,October,4,Tuesday,Average,Low,Horror
+2022,The Empress,7.8,"10,181 Points",Katharina Eyssen,Devrim Lingnau,2022-09-29,S1; 360 min,Germany,Period Drama,10.0,Movie,1.0,,2022,September,3,Thursday,Good,Low,Drama
+2022,Shuroop (Queen's Umbrella),8.5,"6,226 Points",Kim Hyung-sik,Kim Hye-soo,2022-10-15,1 Season; 960 min,South Korea,Historical Drama,6.0,TV Show,,1.0,2022,October,4,Saturday,Excellent,Low,Drama
+2022,Little Women,8.1,"9,596 Points",Kim Hee-won,Kim Go-eun,2022-09-03,1 Season; 720 min,South Korea,Mystery / Drama,9.0,TV Show,,1.0,2022,September,3,Saturday,Excellent,Low,Drama
+2022,Alchemy of Souls,8.7,12.4M Points,Park Joon-hwa,Lee Jae-wook,2022-06-18,2 Parts; 1800 min,South Korea,Fantasy Romance,12.4,Movie,2.0,,2022,June,2,Saturday,Excellent,Medium,Fantasy
+2022,The Recruit,7.5,"7,823 Points",Alexi Hawley,Noah Centineo,2022-12-16,S1; 400 min,USA,Spy Adventure,7.0,Movie,1.0,,2022,December,4,Friday,Good,Low,Other
+2022,Devil in Ohio,5.9,"7,847 Points",Daria Polatin,Emily Deschanel,2022-09-02,8 Eps; 360 min,USA,Horror / Mystery,7.0,Movie,8.0,,2022,September,3,Friday,Low,Low,Horror
+2023,The Night Agent,7.5,99.2M Views,Shawn Ryan,Gabriel Basso,2023-03-23,S1; 491 min,USA,Action Thriller,99.2,Movie,1.0,,2023,March,1,Thursday,Good,Very High,Thriller
+2023,One Piece,8.3,71.6M Views,Matt Owens,Iñaki Godoy,2023-08-31,S1; 451 min,USA/Japan,Action Adventure,71.6,Movie,1.0,,2023,August,3,Thursday,Excellent,Very High,Action
+2023,Queen Charlotte,7.4,77.6M Views,Shonda Rhimes,India Amarteifio,2023-05-04,6 Eps; 389 min,USA,Period Drama / Rom,77.6,Movie,6.0,,2023,May,2,Thursday,Good,Very High,Drama
+2023,The Glory,8.1,43.7M Views,Kim Eun-sook,Song Hye-kyo,2022-12-30,P1/2; 856 min,South Korea,Revenge Thriller,43.7,Movie,1.0,,2022,December,4,Friday,Excellent,High,Thriller
+2023,The Diplomat,8.0,52.1M Views,Deborah Cahn,Keri Russell,2023-04-20,S1; 400 min,USA,Political Drama,52.1,Movie,1.0,,2023,April,2,Thursday,Good,High,Drama
+2023,Ginny & Georgia 2,7.5,68M Views,Sarah Lampert,Brianne Howey,2023-01-05,S2; 587 min,USA,Coming-of-age,68.0,Movie,2.0,,2023,January,1,Thursday,Good,Very High,Other
+2023,You 4,7.7,53.2M Views,Sera Gamble,Penn Badgley,2023-02-09,S4; 497 min,USA,Psych Thriller,53.2,Movie,4.0,,2023,February,1,Thursday,Good,High,Thriller
+2023,Outer Banks 3,7.5,45.3M Views,Josh Pate,Chase Stokes,2023-02-23,S3; 533 min,USA,Teen Adventure,45.3,Movie,3.0,,2023,February,1,Thursday,Good,High,Other
+2023,Beckham,8.1,43.9M Views,Fisher Stevens,David Beckham,2023-10-04,4 Eps; 288 min,UK,Sports Doc,43.9,Movie,4.0,,2023,October,4,Wednesday,Excellent,High,Documentary
+2023,Dear Child,7.3,50.9M Views,Isabel Kleefeld,Kim Riedle,2023-09-07,6 Eps; 288 min,Germany,Crime / Thriller,50.9,Movie,6.0,,2023,September,3,Thursday,Good,High,Crime
+2023,Berlin,7.0,56.7M Views,Álex Pina,Pedro Alonso,2023-12-29,S1; 424 min,Spain,Heist / Crime,56.7,Movie,1.0,,2023,December,4,Friday,Average,High,Crime
+2023,Bodies,7.3,15.3M Views,Paul Tomalin,Stephen Graham,2023-10-19,8 Eps; 480 min,UK,Sci-Fi / Crime,15.3,Movie,8.0,,2023,October,4,Thursday,Good,Medium,Crime
+2023,Blue Eye Samurai,8.7,15M Views,Michael Green,Maya Erskine,2023-11-03,S1; 360 min,USA,Animation / Action,15.0,Movie,1.0,,2023,November,4,Friday,Excellent,Medium,Animation
+2023,Beef,8.0,15.5M Views,Lee Sung Jin,"Steven Yeun, Ali Wong",2023-04-06,S1; 346 min,USA,Dark Comedy / Drama,15.5,Movie,1.0,,2023,April,2,Thursday,Good,Medium,Comedy
+2023,Love Is Blind 4,6.2,21M Views,Chris Coelen,Reality,2023-03-24,S4; 600 min,USA,Dating Reality,21.0,Movie,4.0,,2023,March,1,Friday,Average,Medium,Other
+2023,Black Mirror 6,8.7,31M Views,Charlie Brooker,Aaron Paul,2023-06-15,5 Eps; 300 min,UK,Sci-Fi Anthology,31.0,Movie,5.0,,2023,June,2,Thursday,Excellent,Medium,Sci-Fi
+2023,Fake Profile,5.6,20M Views,Pablo Illanes,Carolina Miranda,2023-05-31,S1; 450 min,Colombia,Mystery / Drama,20.0,Movie,1.0,,2023,May,2,Wednesday,Low,Medium,Drama
+2023,My Demon,7.7,17.7M Views,Choi Ah-il,Kim Yoo-jung,2023-11-24,S1; 1055 min,South Korea,Fantasy Romance,17.7,Movie,1.0,,2023,November,4,Friday,Good,Medium,Fantasy
+2023,Arnold,8.1,12.1M Views,Lesley Chilcott,A. Schwarzenegger,2023-06-07,3 Eps; 180 min,USA,Documentary,12.1,Movie,3.0,,2023,June,2,Wednesday,Excellent,Medium,Documentary
+2023,Cunk on Earth,8.1,11.2M Views,Charlie Brooker,Diane Morgan,2023-01-31,5 Eps; 150 min,UK,Mockumentary,11.2,Movie,5.0,,2023,January,1,Tuesday,Excellent,Medium,Other
+2024,Fool Me Once,6.8,107.5M Views,Danny Brocklehurst,Michelle Keegan,2024-01-01,8 Eps; 385 min,UK,Crime / Mystery,107.5,Movie,8.0,,2024,January,1,Monday,Average,Very High,Crime
+2024,Baby Reindeer,7.8,87.6M Views,Richard Gadd,Richard Gadd,2024-04-11,7 Eps; 238 min,UK,Dark Comedy / Drama,87.6,Movie,7.0,,2024,April,2,Thursday,Good,Very High,Comedy
+2024,Squid Game 2,8.0,192.6M Views,Hwang Dong-hyuk,Lee Jung-jae,2024-12-26,S2; 430 min,South Korea,Survival Drama,192.6,Movie,2.0,,2024,December,4,Thursday,Good,Very High,Drama
+2024,Bridgerton 3,7.4,106M Views,Jess Brownell,Nicola Coughlan,2024-05-16,S3; 479 min,USA,Period Romance,106.0,Movie,3.0,,2024,May,2,Thursday,Good,Very High,Romance
+2024,The Gentlemen,8.1,75.9M Views,Guy Ritchie,Theo James,2024-03-07,S1; 401 min,USA & UK,Crime Comedy,75.9,Movie,1.0,,2024,March,1,Thursday,Excellent,Very High,Crime
+2024,Avatar: Airbender,7.2,71.1M Views,Albert Kim,Gordon Cormier,2024-02-22,S1; 435 min,USA,Fantasy / Action,71.1,Movie,1.0,,2024,February,1,Thursday,Good,Very High,Fantasy
+2024,Griselda,7.2,69.2M Views,Doug Miro,Sofía Vergara,2024-01-25,6 Eps; 332 min,USA,Biography / Crime,69.2,Movie,6.0,,2024,January,1,Thursday,Good,Very High,Crime
+2024,3 Body Problem,7.5,52.4M Views,"D. Benioff, D.B. Weiss",Jovan Adepo,2024-03-21,S1; 444 min,USA & UK,Science Fiction,52.4,Movie,1.0,,2024,March,1,Thursday,Good,High,Sci-Fi
+2024,The Perfect Couple,6.5,75.1M Views,Susanne Bier,Nicole Kidman,2024-09-05,6 Eps; 306 min,USA,Crime / Mystery,75.1,Movie,6.0,,2024,September,3,Thursday,Average,Very High,Crime
+2024,One Day,8.1,39.4M Views,Nicole Taylor,Ambika Mod,2024-02-08,14 Eps; 400 min,UK,Romance / Drama,39.4,Movie,14.0,,2024,February,1,Thursday,Excellent,High,Drama
+2024,Berlin,7.0,48.5M Views,Álex Pina,Pedro Alonso,2023-12-29,S1; 424 min,Spain,Heist / Crime,48.5,Movie,1.0,,2023,December,4,Friday,Average,High,Crime
+2024,The Asunta Case,6.9,30.7M Views,Ramón Campos,Candela Peña,2024-04-26,6 Eps; 325 min,Spain,True Crime Drama,30.7,Movie,6.0,,2024,April,2,Friday,Average,Medium,Crime
+2024,Under Paris,5.2,84.7M Views,Xavier Gens,Bérénice Bejo,2024-06-05,Webfilm; 104 min,France,Action Horror,84.7,Movie,104.0,,2024,June,2,Wednesday,Low,Very High,Horror
+2024,La Palma,6.5,31.4M Views,Kasper Barfoed,Ane Dahl Torp,2024-12-12,1 Season; 184 min,Norway,Disaster Drama,31.4,TV Show,,1.0,2024,December,4,Thursday,Average,High,Drama
+2024,Raising Voices,7.2,25.4M Views,José Manuel Lorenzo,Nicole Wallace,2024-05-31,8 Eps; 363 min,Spain,Teen Drama,25.4,Movie,8.0,,2024,May,2,Friday,Good,Medium,Drama
+2024,Parasyte: The Grey,6.9,25.4M Views,Yeon Sang-ho,Jeon So-nee,2024-04-05,6 Eps; 300 min,South Korea,Sci-Fi / Horror,25.4,Movie,6.0,,2024,April,2,Friday,Average,Medium,Sci-Fi
+2024,Queen of Tears,8.2,29.2M Views,Park Ji-eun,Kim Soo-hyun,2024-03-09,16 Eps; 1402 min,South Korea,Romance Drama,29.2,Movie,16.0,,2024,March,1,Saturday,Excellent,Medium,Drama
+2024,Vikings: Valhalla 3,7.3,20M Views,Jeb Stuart,Sam Corlett,2024-07-11,S3; 400 min,USA,Historical Drama,20.0,Movie,3.0,,2024,July,3,Thursday,Good,Medium,Drama
+2024,The Brothers Sun,7.6,23.9M Views,Byron Wu,Michelle Yeoh,2024-01-04,S1; 440 min,USA,Action / Comedy,23.9,Movie,1.0,,2024,January,1,Thursday,Good,Medium,Comedy
+2024,Furies,6.3,23.3M Views,Jean-Yves Arnaud,Lina El Arabi,2024-03-01,S1; 360 min,France,Action / Crime,23.3,Movie,1.0,,2024,March,1,Friday,Average,Medium,Crime
+2025,Adolescence,8.8,142.6M Views,Philip Barantini,Owen Cooper,2025-03-13,1 Season; 230 min,UK,Crime Drama,142.6,TV Show,,1.0,2025,March,1,Thursday,Excellent,Very High,Crime
+2025,Squid Game 3,8.0,145.8M Views,Hwang Dong-hyuk,Lee Jung-jae,2025-06-27,S3; 368 min,South Korea,Survival Drama,145.8,Movie,3.0,,2025,June,2,Friday,Good,Very High,Drama
+2025,Stranger Things 5,8.7,133.8M Views,The Duffer Brothers,Millie B. Brown,2025-11-26,S5; 624 min,USA,Sci-Fi / Horror,133.8,Movie,5.0,,2025,November,4,Wednesday,Excellent,Very High,Sci-Fi
+2025,Wednesday 2,8.1,124M Views,Tim Burton,Jenna Ortega,2025-08-06,S2; 467 min,USA,Supernatural Mystery,124.0,Movie,2.0,,2025,August,3,Wednesday,Excellent,Very High,Other
+2025,KPop Demon Hunters,7.5,482M Views,"Maggie Kang, Chris Appelhans",Animation/Music,2025-06-20,Webseries; 400 min,South Korea,Musical Fantasy,482.0,Movie,400.0,,2025,June,2,Friday,Good,Very High,Fantasy
+2025,Zero Day,7.6,61.3M Views,Lesli Linka Glatter,Robert De Niro,2025-01-01,6 Eps; 309 min,USA,Political Thriller,61.3,Movie,6.0,,2025,January,1,Wednesday,Good,High,Thriller
+2025,Missing You,7.1,58M Views,Carlton Cuse,Rosalind Eleazar,2025-01-01,1 Season; 226 min,UK,Crime Drama,58.0,TV Show,,1.0,2025,January,1,Wednesday,Good,High,Crime
+2025,UNTAMED,7.8,93M Views,Mark L. Smith,Eric Bana,2025-07-17,S1; 300 min,USA,Crime Thriller,93.0,Movie,1.0,,2025,July,3,Thursday,Good,Very High,Crime
+2025,A House of Dynamite,7.2,76M Views,Kathryn Bigelow,Idris Elba,2025-08-20,S1; 400 min,USA,Drama,76.0,Movie,1.0,,2025,August,3,Wednesday,Good,Very High,Drama
+2025,The Great Flood,6.8,66M Views,Kim Byung-woo,Kim Da-mi,2025-01-01,1 Season; 450 min,South Korea,Science Fiction,66.0,TV Show,,1.0,2025,January,1,Wednesday,Average,High,Sci-Fi
+2025,Ms. Rachel,8.5,73M Views,Rachel Griffin,Rachel Griffin,2025-01-01,S1/2; 300 min,USA,Kids / Family,73.0,Movie,1.0,,2025,January,1,Wednesday,Excellent,Very High,Other
+2025,Gabby's Dollhouse,7.1,108M Views,Traci Paige Johnson,Laila Lockhart,2025-07-01,All Seasons; 1000 min,USA,Kids / Family,108.0,TV Show,,1000.0,2025,July,3,Tuesday,Good,Very High,Other
+2025,When Life Tangerines,8.4,34.8M Views,Kim Won-seok,"IU, Park Bo-gum",2025-01-01,1 Season; 995 min,South Korea,Period Drama,34.8,TV Show,,1.0,2025,January,1,Wednesday,Excellent,High,Drama
+2025,Trauma Code: Heroes,8.0,34.1M Views,Lee Chi-hyung,Ju Ji-hoon,2025-01-01,S1; 416 min,South Korea,Medical Drama,34.1,Movie,1.0,,2025,January,1,Wednesday,Good,High,Drama
+2025,Zero Day,7.6,61M Views,Lesli Linka Glatter,Robert De Niro,2025-01-01,6 Eps; 300 min,USA,Political Thriller,61.0,Movie,6.0,,2025,January,1,Wednesday,Good,High,Thriller
+2025,The Åre Murders,7.3,32.6M Views,"Joakim Eliasson,Alain Darborg.",Carla Sehn,2025-03-01,S1; 218 min,Sweden,Crime Drama,32.6,Movie,1.0,,2025,March,1,Saturday,Good,High,Crime
+2025,Secrets We Keep,7.5,33.8M Views,Per Fly,Marie Bach Hansen,2025-02-15,1 Season; 224 min,Denmark,Crime Drama,33.8,TV Show,,1.0,2025,February,1,Saturday,Good,High,Crime
+2025,The Gardener,7.2,33.5M Views,"Mikel Rueda, Rafa Montesinos.",Álvaro Rico,2025-01-01,1 Season; 280 min,Spain,Crime Drama,33.5,TV Show,,1.0,2025,January,1,Wednesday,Good,High,Crime
+2025,Running Point,6.7,41.3M Views,Mindy Kaling,Kate Hudson,2025-03-15,S1; 304 min,USA,Comedy,41.3,Movie,1.0,,2025,March,1,Saturday,Average,High,Comedy
+2025,The Four Seasons,6.9,39.4M Views,Erika Dunton,Colman Domingo,2025-04-01,S1; 258 min,USA,Comedy,39.4,Movie,1.0,,2025,April,2,Tuesday,Average,High,Comedy
